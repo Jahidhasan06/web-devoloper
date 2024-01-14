@@ -1,0 +1,24 @@
+body{font-family: 'Open Sans', sans-serif;}
+.btn-primary{border-radius:5px;background-color: #FD6E0A;
+border: 0;
+color: white;
+padding: 18px 35px;
+font-size: 20px;
+font-weigh: 700;
+}
+
+.orange{color:#FD6E0A ;}
+nav{display:flex;
+align-items: center;}
+.webhead{color: var(--Dark-01, #181818);
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;}
+    nav>ol{display: flex;
+   }
+   nav li{align-items: center; list-style: none;
+ margin-right: 51px;}
+ nav a{text-decoration: none;
+color:#474747}
+
+
