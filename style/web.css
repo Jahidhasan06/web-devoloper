@@ -50,6 +50,8 @@ margin-bottom: 20px;}
 margin-top: 130px;
 margin-bottom: 130px;}
 
+main{max-width: 1140px;
+margin: 0 auto;}
 .tittle-section{color: #181818;
   text-align: center;
   font-size: 35px;
@@ -60,3 +62,8 @@ margin-bottom: 130px;}
   font-size: 18px;
   font-weight: 400;
   line-height: 30px}
+  .about-container{display: flex;
+  justify-content: space-around;}
+  .info-tittle{text-align: center;}
+  #ajaira{padding: 30px 150px;}
+  .skil-container{display: flex;}
