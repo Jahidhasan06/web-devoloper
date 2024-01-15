@@ -29,7 +29,8 @@ background-position: right bottom;}
 .banner{margin: 20px 20px 20px 100px;
 display:flex;
 }
-
+.btn-primary{gap: 10px
+}
 .banner{;
 display: flex;}
 
@@ -56,6 +57,7 @@ margin: 0 auto;}
   text-align: center;
   font-size: 35px;
   font-weight: 700;}
+  main section{margin-top: 120px;}
 
   .description-section{color: #757575;
   text-align: center;
@@ -66,4 +68,23 @@ margin: 0 auto;}
   justify-content: space-around;}
   .info-tittle{text-align: center;}
   #ajaira{padding: 30px 150px;}
-  .skil-container{display: flex;}
+  .skil-container{display: flex;
+    gap: 25px;}
+  .skill{padding: 30px;
+  border-radius: 5px;
+  background: #FFF;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);}
+  .resume-column-tittle{color: #474747;
+    font-size: 30px;
+    font-weight: 700;}
+    .resume-tittle{color:#474747;
+      font-size: 25px;
+      font-weight: 700;}
+      .resume-info{color:#757575;
+        font-size: 20px;
+        font-weight: 60px;}
+        .resume-kaj{color: #757575;
+          font-size: 16px;
+          font-weight: 400;
+          line-height: 28px;
+        }
